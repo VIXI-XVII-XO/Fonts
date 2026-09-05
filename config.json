@@ -1,7 +1,27 @@
 {
     "spec": 1,
     "family_name": "Maple Mono",
+    "name": "Maple Mono",
     "previewText": "Maple Mono",
+    "family_name": "Maple Mono",
+    "weight_mapping": {
+        "MapleMono-Thin": 100,
+        "MapleMono-ThinItalic": 100,
+        "MapleMono-ExtraLight": 200,
+        "MapleMono-ExtraLightItalic": 200,
+        "MapleMono-Light": 300,
+        "MapleMono-LightItalic": 300,
+        "MapleMono-Regular": 400,
+        "MapleMono-Italic": 400,
+        "MapleMono-Medium": 500,
+        "MapleMono-MediumItalic": 500,
+        "MapleMono-SemiBold": 600,
+        "MapleMono-SemiBoldItalic": 600,
+        "MapleMono-Bold": 700,
+        "MapleMono-BoldItalic": 700,
+        "MapleMono-ExtraBold": 800,
+        "MapleMono-ExtraBoldItalic": 800
+    }
     "main": {
         "MapleMono-Bold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Bold.ttf?raw=1",
         "MapleMono-BoldItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-BoldItalic.ttf?raw=1",
