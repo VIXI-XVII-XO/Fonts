@@ -1,0 +1,23 @@
+{
+    "spec": 1,
+    "family_name": "Maple Mono",
+    "previewText": "Maple Mono",
+    "main": {
+        "MapleMono-Bold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Bold.ttf?raw=1",
+        "MapleMono-BoldItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-BoldItalic.ttf?raw=1",
+        "MapleMono-ExtraBold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraBold.ttf?raw=1",
+        "MapleMono-ExtraBoldItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraBoldItalic.ttf?raw=1",
+        "MapleMono-ExtraLight": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraLight.ttf?raw=1",
+        "MapleMono-ExtraLightItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraLightItalic.ttf?raw=1",
+        "MapleMono-Italic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Italic.ttf?raw=1",
+        "MapleMono-Light": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Light.ttf?raw=1",
+        "MapleMono-LightItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-LightItalic.ttf?raw=1",
+        "MapleMono-Medium": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Medium.ttf?raw=1",
+        "MapleMono-MediumItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-MediumItalic.ttf?raw=1",
+        "MapleMono-Regular": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Regular.ttf?raw=1",
+        "MapleMono-SemiBold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-SemiBold.ttf?raw=1",
+        "MapleMono-SemiBoldItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-SemiBoldItalic.ttf?raw=1",
+        "MapleMono-Thin": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Thin.ttf?raw=1",
+        "MapleMono-ThinItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ThinItalic.ttf?raw=1"
+    }
+}
