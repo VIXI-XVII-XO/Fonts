@@ -1,0 +1,32 @@
+{
+  "spec": 1,
+  "name": "Maple Mono",
+  "previewText": "Maple Mono",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraBold.ttf?raw=1",
+
+    "ggsans-Bold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-BoldItalic.ttf?raw=1",
+
+    "ggsans-ExtraBold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraBoldItalic.ttf?raw=1",
+
+    "ggsans-Medium": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-MediumItalic.ttf?raw=1",
+
+    "ggsans-Normal": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Italic.ttf?raw=1",
+
+    "ggsans-Semibold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-SemiBold.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-SemiBoldItalic.ttf?raw=1",
+
+    "NotoSans-Bold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-Italic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-SemiBold.ttf?raw=1",
+
+    "SourceCodePro-Semibold": "https://github.com/VIXI-XVII-XO/Fonts/raw/refs/heads/main/MapleMono-SemiBold.ttf?raw=1"
+  }
+}
